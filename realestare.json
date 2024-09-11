@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Luxury Villa",
+        "segment_name": "Residential",
+        "description": "A beautiful luxury villa with modern amenities.",
+        "price": "$1,200,000",
+        "status": "sale",
+        "area": "3500 sq ft",
+        "location": "Beverly Hills, CA",
+        "facilities": ["living room", "swimming pool", "kitchen"],
+        "image": "https://i.ibb.co.com/Msd8CBB/download-6.jpg",
+        "view_property": "https://example.com/property/1"
+    },
+    {
+        "id": 2,
+        "estate_title": "Modern Apartment",
+        "segment_name": "Residential",
+        "description": "A stylish modern apartment in the city center.",
+        "price": "$750,000",
+        "status": "sale",
+        "area": "1200 sq ft",
+        "location": "New York, NY",
+        "facilities": ["living room", "gym", "kitchen"],
+        "image": "https://i.ibb.co.com/cbKTBgL/download-5.jpg",
+        "view_property": "https://example.com/property/2"
+    },
+    {
+        "id": 3,
+        "estate_title": "Cozy Cottage",
+        "segment_name": "Residential",
+        "description": "A cozy cottage with a beautiful garden.",
+        "price": "$300,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "Portland, OR",
+        "facilities": ["living room", "garden", "kitchen"],
+        "image": "https://i.ibb.co.com/d095wrk/images-8.jpg",
+        "view_property": "https://example.com/property/3"
+    },
+    {
+        "id": 4,
+        "estate_title": "Beachside Bungalow",
+        "segment_name": "Residential",
+        "description": "A charming bungalow located near the beach.",
+        "price": "$850,000",
+        "status": "sale",
+        "area": "2200 sq ft",
+        "location": "Miami, FL",
+        "facilities": ["living room", "swimming pool", "kitchen"],
+        "image": "https://i.ibb.co.com/gT6w8XN/download-4.jpg",
+        "view_property": "https://example.com/property/4"
+    },
+    {
+        "id": 5,
+        "estate_title": "Luxury Villa",
+        "segment_name": "Residential",
+        "description": "A beautiful luxury villa with modern amenities.",
+        "price": "$1,200,000",
+        "status": "sale",
+        "area": "3500 sq ft",
+        "location": "Beverly Hills, CA",
+        "facilities": ["living room", "swimming pool", "kitchen"],
+        "image": "https://i.ibb.co.com/KVMTyJn/download-3.jpg",
+        "view_property": "https://example.com/property/1"
+    },
+    {
+        "id": 6,
+        "estate_title": "Cozy Cottage",
+        "segment_name": "Residential",
+        "description": "A cozy cottage with a beautiful garden.",
+        "price": "$300,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "Portland, OR",
+        "facilities": ["living room", "garden", "kitchen"],
+        "image": "https://i.ibb.co.com/kKpz1Mm/download.jpg",
+        "view_property": "https://example.com/property/3"
+    }
+]
