@@ -6,30 +6,28 @@ import Login from "../Login/Login";
 import Residential from "../Residential/Residential";
 
 const router = createBrowserRouter([
-    {
+  {
     //   path: "/",
-      element: <Root></Root>,
-      children: [
-        {
-          path:'/',
-          element: <Home></Home>,
-        
-        },
-        {
-          path: 'Register',
-          element: <Register></Register>
-        },
-        {
-          path: '/Login',
-          element: <Login></Login>
-        },
-        {
-          path: 'Residential',
-          element: <Residential></Residential>,
-         
-        }
-      ]
-    },
-  ]);
+    element: <Root></Root>,
+    children: [
+      {
+        index: true,
+        element: <Home></Home>,
+      },
+      {
+        path: "Register",
+        element: <Register></Register>,
+      },
+      {
+        path: "login",
+        element: <Login></Login>,
+      },
+      {
+        path: "Residential",
+        element: <Residential></Residential>,
+      },
+    ],
+  },
+]);
 
-  export default router
+export default router;

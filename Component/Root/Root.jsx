@@ -4,17 +4,13 @@ import Residential from "../Residential/Residential";
 import FeatureCard from "../FeatureCard/FeatureCard";
 import Banner from "../Banner/Banner";
 
-
 const Root = () => {
-    return (
-        <div>
-            <Navbar></Navbar>
-        <Banner></Banner>
-            <Residential></Residential>
-            <FeatureCard></FeatureCard>
-            <Outlet></Outlet>
-        </div>
-    );
+  return (
+    <div>
+      <Navbar></Navbar>
+      <Outlet></Outlet>
+    </div>
+  );
 };
 
 export default Root;
